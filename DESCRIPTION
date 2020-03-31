@@ -1,0 +1,9 @@
+Package: iac
+Title: utils for creating and running IAC networks
+Version: 0.1
+Authors@R: person("Rob", "Ward", email = "r.ward@bangor.ac.uk",
+                  role = c("aut", "cre"))
+Description: What the package does (one paragraph)
+Depends:
+    yaml
+RoxygenNote: 7.1.0
